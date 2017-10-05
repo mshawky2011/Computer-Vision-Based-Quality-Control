@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-cap = cv2.imread('/media/parth/06C20E27C20E1B95/machine leaning/sentdex/opencv/medicine.jpg', cv2.IMREAD_COLOR)
+cap = cv2.imread('path/try.jpg', cv2.IMREAD_COLOR)
 
 hsv = cv2.cvtColor(cap, cv2.COLOR_BGR2HSV)
 
