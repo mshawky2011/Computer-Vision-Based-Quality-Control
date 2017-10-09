@@ -8,4 +8,7 @@ numpy  - 1.13.1
 
 
 # run
-python3 
+python3 computerVision.py
+
+# output
+number of missing medicine
