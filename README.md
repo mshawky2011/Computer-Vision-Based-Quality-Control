@@ -1,6 +1,6 @@
 ## Quality-control-based-on-Computer-Vision
 
-# Requriments #
+# Requirement #
 
 python - 3.5.2   
 opencv - 3.1.0  
